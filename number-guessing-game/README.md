@@ -8,3 +8,7 @@ A simple Python terminal game where the player tries to guess a randomly generat
 - User input
 - Hint messages
 - Win detection
+
+## Preview
+
+![Number Guessing Game](number-guessing.png)
