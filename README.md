@@ -10,7 +10,13 @@ A collection of beginner Python terminal games.
 
 ## Technologies Used
 
-- 🐍 Python 
+- 🐍 Python
+
+<p align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1tbDFlOXZjbGc4ZTU1N2huZDc3ODV0cWtubjhtNnI2bmdvZ2FteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sw66C0T75QMbVt195P/giphy.gif" width="300">
+</p>
+
+
 
 ## Author
 
