@@ -16,12 +16,12 @@ Rules
 - The first player to reach 50 points wins the game.
 
 ## ✨ Features
-🎲 Random dice rolling using Python's random module
-👥 Supports 2–4 players
-✅ Input validation for the number of players
-🔄 Turn-based gameplay
-📊 Tracks each player's total score
-🏆 Automatically announces the winner
+- 🎲 Random dice rolling using Python's random module
+- 👥 Supports 2–4 players
+- ✅ Input validation for the number of players
+- 🔄 Turn-based gameplay
+- 📊 Tracks each player's total score
+- 🏆 Automatically announces the winner
 
 # 🛠️ Technologies Used
 - Python 3
@@ -38,8 +38,7 @@ Rules
 - Variables and operators
 
 # 📸 Demo
-!(Pigg-game demo)[code.png]
-
+![code demo](code.png)
 
 
 # 👩‍💻 Author
@@ -47,4 +46,6 @@ Created by Diyagu/Python🐍 as part of my Python learning journey and GitHub po
 
 If you found this project interesting, feel free to ⭐ the repository!
 
-!(gameauthor)[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw5OWVsdHY0NXQ4NGM5Y2J4OTIwM3F6ZHBsM3l1N2NpYmU3ZTIwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lrDRoA6A73Ni52ic7b/giphy.gif]
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw5OWVsdHY0NXQ4NGM5Y2J4OTIwM3F6ZHBsM3l1N2NpYmU3ZTIwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lrDRoA6A73Ni52ic7b/giphy.gif" width="350">
+</p>
